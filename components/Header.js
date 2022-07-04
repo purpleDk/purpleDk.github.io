@@ -7,7 +7,7 @@ class Header extends HTMLElement {
     this.innerHTML = `
       <header class="header is-100" id="header">
         <a href="./index.html" class="header-logo box-bordered top">
-         &#127967;
+         &#128373;
         </a>
 
         <nav class="nav-container">
